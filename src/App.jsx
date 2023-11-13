@@ -77,7 +77,7 @@ function App() {
       <div>
         <ScoreBoard score={clicked.length} best={best} />
       </div>
-      <div className=" flex gap-8 m-10 flex-wrap items-center justify-center max-w-5xl">
+      <div className=" flex gap-8 m-4 flex-wrap items-center justify-center max-w-5xl">
         {error ? (
           <div>{"OOPs something went wrong"}</div>
         ) : isLoading ? (

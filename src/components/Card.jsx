@@ -7,7 +7,7 @@ export default function Card(props) {
       draggable="false">
       <img
         draggable="false"
-        className=" w-48 h-56 rounded shadow-lg hover:scale-105"
+        className=" w-28 h-36 md:w-48 md:h-56 rounded shadow-lg hover:scale-105"
         src={props.card.images.original.url}
         alt={props.card.title}
       />
