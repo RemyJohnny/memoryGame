@@ -1,8 +1,4 @@
-# React + Vite
+# The Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The game tests players' memory and cognitive skills as they attempt not to click same card twice. Develop with React.js using Giphy API.
+live preview https://transcendent-sunflower-eafe6f.netlify.app/
